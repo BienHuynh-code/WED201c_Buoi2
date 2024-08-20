@@ -1,0 +1,25 @@
+.title{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+.part1{
+    color: chartreuse;
+}
+.part2>ol>li{
+    font-style: italic;
+    color: blue;
+}
+.part3>p>a{
+    text-decoration: none;
+}
+.part3{
+    font-size: larger;
+    color: gold;
+}
+.part6>div>a{
+    text-decoration: none;
+    font-size: 40px;
+    font-weight: 900;
+}
